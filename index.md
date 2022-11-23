@@ -11,7 +11,7 @@ Research, software, auditing, and design
 
 ## Currently
 
-Research at the Ethereum Foundation
+Research, design, strategy, and security at the Ethereum Foundation
 
 ### Specialized in
 
@@ -37,14 +37,19 @@ The Birl: An Electronic Wind Instrument Based on an Artificial Neural Network Pa
 ### Specifications
   
 `2018 - now`
- Ethereum Beacon Chain specifications, [github](https://github.com/ethereum/consensus-specs)
+Ethereum consensus-layer specifications, [github](https://github.com/ethereum/consensus-specs)
 
+### Speaking
+ 
+`2018 - now`
+Technical talks at Devcon, MIT Bitcoin Expo, Consensus, EDCON, and more
+ 
 ## Occupation
 
 `2017 - now`
 **Ethereum Foundation**, Research lead
 
-`2013 - 2016`
+`2013 - 2017`
 **Control Shift Tech**, Software, business, and design consulting
 
 `2010 - 2013`
