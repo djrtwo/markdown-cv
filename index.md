@@ -1,91 +1,61 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Danny Ryan's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Danny Ryan
+Research, software, auditing, and design
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="djrtwo@protonmail.com"><djrtwo@protonmail.com></a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Research at the Ethereum Foundation
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Blockchain systems, p2p consensus, game theory, mechanism design, security
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+`2008 - 2013`
+**Princeton University**, BSE Computer Science
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Papers
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2020`
+ Combining GHOST and Casper, [arXiv](https://arxiv.org/abs/2003.03052)
+ 
+`2014`
+The Birl: An Electronic Wind Instrument Based on an Artificial Neural Network Parameter Mapping Structure, [NIME](https://www.nime.org/proceedings/2014/nime2014_540.pdf)
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+### Specifications
+  
+`2018 - now`
+ Ethereum Beacon Chain specifications, [github](https://github.com/ethereum/consensus-specs)
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2017 - now`
+**Ethereum Foundation**, Research lead
 
-- Warden
-- Minted coins
+`2013 - 2016`
+**Control Shift Tech**, Software, business, and design consulting
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2010 - 2013`
+**Princeton Univeristy**, Computer Science instruction and tutoring
 
+`2006 - now`
+**Giraphic Prints**, Screenprinting owner/operator
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Nov 2022 -->
 
 
